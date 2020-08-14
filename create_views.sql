@@ -2,7 +2,7 @@
 \i common.sql
 
 -- Generate 'create schema' SQL
-select distinct 'create schema ' || shortname || '; comment on schema ' || shortname || ' is ''' || fullname || ' (' || pluginkey || ') plugin table views mirroring the ' || hash || '.* tables.'';' from ourplugininfo;
+select distinct 'create schema ' || shortname || '; comment on schema ' || shortname || ' is ''' || coalesce(fullname,'') || ' (' || pluginkey || ') plugin table views mirroring the ' || hash || '.* tables.'';' from ourplugininfo;
 
 -- Generate 'create view' SQL
 select 'create view ' || schema_qualified_tablename || ' AS SELECT ' || colclauses || ' FROM "' || table_name || '"; comment on view ' || schema_qualified_tablename || ' is ''View of ' || table_name || ''';' from 
