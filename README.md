@@ -1,6 +1,6 @@
 # ActiveObject Table Views
 
-Creates easily queryable views over Jira/Confluence activeobjects tables in Postgres
+Create easily queryable views over Jira/Confluence activeobjects tables in Postgres.
 
 ## Background
 
@@ -28,8 +28,8 @@ If you've ever poked around in a Jira or Confluence database, you will notice hu
 These tables are storing data for plugins (aka 'apps' or add-ons).
 
 These are table names only a Java developer could love. Writing SQL queries is a royal pain because:
-* It is not obvious which tables apply to which plugin. The 6 character code is [derived from the plugin key](https://developer.atlassian.com/server/framework/atlassian-sdk/table-names/) and is necessary to prevents naming conflicts, but obscures the table's purpose.
-* Both table names _and column names_ are uppercase, requiring (in Postgres) everything to be quoted (`select "NAME", "PROGRAM_ID" from "AO_AEFED0_TEAM_V2" ...`).
+* It is not obvious which tables apply to which plugin. The 6 character code is [derived from the plugin key](https://developer.atlassian.com/server/framework/atlassian-sdk/table-names/) and is necessary to prevents naming conflicts, but obscures the table's origin.
+* Both table names and column names are uppercase, requiring (in Postgres) everything to be quoted in SQL (`select "NAME", "PROGRAM_ID" from "AO_AEFED0_TEAM_V2" ...`).
 
 
 
@@ -175,7 +175,7 @@ However if you were to upgrade a plugin, and that upgrade happens to drop a plug
 
 ### Plugin names
 
-The `jiraplugins.csv` mapping of `AO_` hashes to plugin keys was originally scraped from [https://confluence.atlassian.com/jirakb/list-of-jira-server-ao-table-names-and-vendors-973498988.html]. The equivalent `confluenceplugins.csv` is constructed from scratch. If you use a plugin without a mapping, please submit a ticket and I'll add it.
+The [jiraplugins.csv](jiraplugins.csv) mapping of `AO_` hashes to plugin keys was originally scraped from https://confluence.atlassian.com/jirakb/list-of-jira-server-ao-table-names-and-vendors-973498988.html. The equivalent [confluenceplugins.csv](confluenceplugins.csv) is constructed from scratch. If you use a plugin without a mapping, please submit a ticket and I'll add it.
 
 
 ### Database support
