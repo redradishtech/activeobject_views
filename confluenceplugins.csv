@@ -1,0 +1,13 @@
+hash,pluginkey,shortname,longname
+AO_950DC3,com.atlassian.confluence.extra.team-calendars,teamcalendars,
+AO_6D89BF,com.mxgraph.confluence.plugins.diagramly,diagramly,
+AO_ED549C,com.refinedwiki.confluence.plugins.mobile,refinedmobile,
+AO_63F547,de.smartics.atlassian.confluence.smartics-projectdoc-confluence,projectdoc,
+AO_5FB9D7,com.atlassian.confluence.plugins.confluence-hipchat-integration-plugin,hichat,
+AO_954A21,com.atlassian.confluence.plugins.confluence-mobile-plugin,confmobile,
+AO_AD3311,de.scandio.confluence.plugins.pocketquery,pocketquery,
+AO_EBE6AF,net.seibertmedia.extranet.core,extranet,
+AO_81ECC7,com.onresolve.confluence.groovy.groovyrunner,scriptrunner,
+AO_D5013B,com.appfusions.confluence.google.confluence-google-docs,gdocs,
+AO_EF9604,com.atlassian.confluence.plugins.confluence-jira-metadata,jirametadata,
+AO_B6DBB0,com.stiltsoft.confluence.plugin.tablefilter.tablefilter,tablefilter,

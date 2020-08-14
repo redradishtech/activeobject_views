@@ -1,0 +1,340 @@
+hash,pluginkey,shortname,longname
+AO_8496F9,agile.estimation.3.0_private,planningpoker,Planning poker for JIRA
+AO_BF7624,agile.retrospectives,agileretro,Agile Retrospectives for JIRA
+AO_299380,amoeboids.releasenotes,relnotes,Automated Release Notes
+AO_1EF9DD,au.com.adweb.plugin.mischrs,hourslog,Misc. Hours Logging
+AO_788523,biz.epicreport.epicreports,pivotreport,Pivot Report
+AO_499D56,biz.epicreport.worklogs,worklogsreport,Worklogs Report
+AO_2DA43D,capacity-tracker-plugin,capacitytracker,Capacity Tracker
+AO_9C8F64,ch.bitvoodoo.jira.plugins.customfieldsync,cfoptsync,Custom Field Option Synchroniser
+AO_BA68D6,co.uk.jackgraves.jira-optimiser,optimizer,Optimizer for Jira
+AO_FD6F52,com.abdhiware.releasedog,releasedog,releasedog
+AO_222C21,com.adweb.estimations.estimationUpdate,estimation,Tracking and Estimation for Jira
+AO_E2B9A5,com.akeles.jira.plugins.TableCustomFields,tablecf,Table Custom Fields
+AO_8DD30D,com.akelesconsulting.jira.plugins.AttachmentChecker,attachmentchecker,Attachment Checker for Jira
+AO_C30643,com.akelesconsulting.jira.plugins.CannedSearchGadget,cannedsearch,Canned Search Gadget
+AO_299E6C,com.akelesconsulting.jira.plugins.LookupManager,lookupmanager,Lookup Manager
+AO_86B55C,com.akelesconsulting.jira.plugins.OutOfOfficeAssistant,outofoffice,Out Of Office Assistant
+AO_C069E0,com.akelesconsulting.jira.plugins.SQLReporter,sqlreporter,SQL Reporter
+AO_9B0D9B,com.allenta.jira.plugins.gitlab.gitlab-listener,gitlab,GitLab Listener
+AO_8BAD1B,com.almworks.jira.structure,structure,Structure
+AO_9F079B,com.apanasevich.jira-jigit-plugin,jigit,Jigit Plugin
+AO_6714C7,com.arsenalesystems.dataplane,dataplane,Arsenale Dataplane
+AO_DDA217,com.artezio.artjiraboard.jiraboard-plugin,arteziokanban,Artezio Kanban Board for Jira
+AO_A1636C,com.atlassian.cps.activityIcon,jiractivity,Activity for Jira
+AO_8AAAB7,com.atlassian.cps.sumUp,sumup,sumUp for Jira
+AO_C16815,com.atlassian.jira.diagnostics,jiradiagnostics,Atlassian Jira - Plugins - Diagnostics Plugin
+AO_BD1E3C,com.atlassian.jira.jira-autolink-plugin,autolink,JIRA AutoLink Plugin
+AO_2C4E5C,com.atlassian.jira.jira-email-processor-plugin,jiraemailprocessor,jira-email-processor-plugin
+AO_97EDAB,com.atlassian.jira.jira-invite-user-plugin,jirainvite,Atlassian Jira - Plugins - Invite User
+AO_3B1893,com.atlassian.jira.jira-mail-plugin,jiramail,Atlassian Jira - Plugins - Mail Plugin
+AO_550953,com.atlassian.jira.jira-projects-plugin,jiraprojects,Jira Projects Plugin
+AO_0A5972,com.atlassian.jira.mobile.jira-mobile-rest,jiramobile,Mobile Plugin for Jira
+AO_733371,com.atlassian.jira.plugins.inform.event-plugin,inform,Jira inform - event plugin
+AO_E8B6CC,com.atlassian.jira.plugins.jira-bitbucket-connector-plugin,dvcs,Jira DVCS Connector Plugin
+AO_575BF5,com.atlassian.jira.plugins.jira-development-integration-plugin,jiradevint,Atlassian Jira - Plugins - Development Integration Plugin
+AO_0AC321,com.atlassian.jira.plugins.jira-optimizer-plugin,jiraoptimizer,jira-optimizer-plugin
+AO_CFF990,com.atlassian.jira.plugins.jira-transition-triggers-plugin,jiratranstrigger,Atlassian Jira - Plugins - Transition Trigger Plugin
+AO_4AEACD,com.atlassian.jira.plugins.webhooks.jira-webhooks-plugin,jirawebhooks,Atlassian Jira - Plugins - WebHooks Plugin
+AO_7A2604,com.atlassian.jira.plugins.workinghours,workhours,JIRA Working Hours Plugin
+AO_B9A0F0,com.atlassian.jira.project-templates-plugin,projtemplates,Project Templates Plugin
+AO_D9132D,com.atlassian.jpo,portfolio,Portfolio plans
+AO_587B34,com.atlassian.labs.hipchat.hipchat-for-jira-plugin,hipchat,Hipchat for Jira
+AO_F1B27B,com.atlassian.plugin.timedpromise.atlassian-timed-promise-plugin,timedpromise,Atlassian Timed Promise Plugin
+AO_38321B,com.atlassian.plugins.atlassian-nav-links-plugin,navlinks,Atlassian Navigation Links Plugin
+AO_21D670,com.atlassian.plugins.atlassian-whitelist-core-plugin,whitelist,Atlassian Whitelist Core Plugin
+AO_ED669C,com.atlassian.plugins.authentication.atlassian-authentication-plugin,saml,SAML for Atlassian Data Center
+AO_5FB9D7,com.atlassian.plugins.base-hipchat-integration-plugin-api,hipchat,Atlassian Hipchat Integration Plugin Core
+AO_319474,com.atlassian.psmq,psmq,psmq-plugin
+AO_54307E,com.atlassian.servicedesk,jsd,JIRA Service Desk
+AO_56464C,com.atlassian.servicedesk.approvals-plugin,jsd,Service Desk Approvals Plugin
+AO_9B2E3B,com.atlassian.servicedesk.plugins.automation.servicedesk-automation-plugin,jsd,Service Desk Automation Plugin
+AO_D530BB,com.atlassian.servicedesk.servicedesk-canned-responses-plugin,jsd,Service Desk Canned Responses Plugin
+AO_C7F17E,com.atlassian.servicedesk.servicedesk-lingo-plugin,jsd,Service Desk Lingo Plugin
+AO_4E8AE6,com.atlassian.servicedesk.servicedesk-notifications-plugin,jsd,Service Desk Notifications Plugin
+AO_0201F0,com.atlassian.servicedesk.servicedesk-reports-plugin,jsd,Service Desk Reports Plugin
+AO_563AEE,com.atlassian.streams.streams-thirdparty-plugin,streams,Streams Third Party Provider Plugin
+AO_82B313,com.atlassian.teams,portfolioteam,Portfolio Team Management
+AO_23011C,com.atlassian.translations.jira.inproduct,jiratranslations,InProduct translation for JIRA
+AO_4789DD,com.atlassian.troubleshooting.plugin-jira,support,Atlassian Troubleshooting and Support Tools
+AO_A0B856,com.atlassian.webhooks.atlassian-webhooks-plugin,webhooks,Atlassian WebHooks Plugin
+AO_21F425,com.atlassian.whisper.atlassian-whisper-plugin,atlnotifications,Atlassian Notifications
+AO_F3C482,com.atsistemas.jira.addons.notify-me,notifyme,NotifyMe!
+AO_E36E26,com.atsistemas.jira.plugins.pageme,pageme,PageMe!
+AO_39E198,com.balsamiq.jira.plugins.mockups,mockups,Balsamiq Wireframes for JIRA Server
+AO_3A112F,com.botronsoft.jira.rollout.configuration-manager-core,configmanagercore,Configuration Manager Core Bundle
+AO_877885,com.brizoit.companycalendar,companycalendar,Company Calendar for JIRA
+AO_E7E13A,com.bugpotion.jiraffe,jiraffe,Jiraffe
+AO_8D4C0F,com.candylio.jira.plugins.jira-csat,csat,Customer Satisfaction Survey for JIRA
+AO_CD1DD1,com.candylio.jira.plugins.jira-nps,nps,NPS Survey for JIRA and JIRA Service Desk
+AO_13D3DF,com.caritteprod.group-ambassadors,groupambassadors,Group Ambassadors
+AO_589059,com.codebarrel.addons.automation,automation,Automation for Jira
+AO_430618,com.coresoftlabs.common.calendar,coresoftcal,Calendar (CoreSoft Labs Commons)
+AO_713E23,com.coresoftlabs.jira.workflow-powerbox,wfpowerbox,Workflow Powerbox
+AO_B98A89,com.coresoftlabs.secure-fields.secure-fields,securefields,Secure Fields
+AO_E0F72F,com.coresoftlabs.sla_powerbox.sla_powerbox,slapowerbox,SLA PowerBox
+AO_58EA67,com.cprime.jira.plugins.surveyproject,jsdsurveys,Surveys for Service Desk
+AO_0EC4DF,com.curvc.atlas.jira.plugin.issuehistory,historyprinter,Issue History Printer for JIRA
+AO_DCF489,com.decadis.jira.xchart.xchart-core,xcharts,xCharts - Custom Charts and Reports for Jira
+AO_396840,com.decadis.jira.xport,xport,xPort - Custom Worklog Export for JIRA
+AO_F5A203,com.decadis.xtools-for-jira,xtools,Admin Toolbox for Jira
+AO_C4B6C1,com.deiser.jira.exporter,exporter,Exporter - Export Issues to Excel CSV PDF
+AO_00B950,com.deiser.jira.profields,profields,Profields - Project Custom Fields
+AO_854ED6,com.deiser.jira.workload.workload,workload,Workload
+AO_00C882,com.deniz.jira.customfields,cfpp,CustomFields++
+AO_AFAA51,com.deniz.jira.reminders,reminders,Issue Reminders for Jira
+AO_53699B,com.deniz.jira.similarissues,similarissues,Similar Issues Finder
+AO_102D86,com.deniz.jira.versioning,versioning,Configuration Management Toolkit
+AO_7B9828,com.deniz.jira.worklog,worklogpro,WorklogPRO
+AO_1E3ECE,com.develocenter.jira.links-scheme,schemes,Extended Schemes for JIRA
+AO_AC8402,com.device42.atlas.jira.d42jira,device42,Device42 JIRA Connector
+AO_B50D50,com.deviniti.atlassian.apps.extension-myrequests,jsdmyrequests,My Requests Extension for Jira Service Desk
+AO_935429,com.dolby.atlassian.jira.jirasu,jirasu,SU for JIRA
+AO_B8EFDD,com.dortiz.jira.plugin.shared.SharedManager,sharedmanager,Shared Manager
+AO_1273F8,com.easesolutions.jira.plugins.coverage,coverage,Coverage Services
+AO_242870,com.easesolutions.jira.plugins.requirements,r4j,R4J - Requirements Management for Jira
+AO_98448A,com.empyra.auc.AutoUserCreator,userimporter,CSV User Importer for jira
+AO_0802A2,com.enhancera.pii.pii4jira,piiprotector,PII Protector for Jira
+AO_08F1AF,com.exalate.jiranode,exalate,Exalate
+AO_CEEE86,com.flyingagile.jira.plugin.aip,agileprinter,Agile Issue Printer
+AO_6A3064,com.gebsun.plugins.jira.defaultvalues,createdefaults,Default Values for Create Issue screen
+AO_2D1742,com.gebsun.plugins.jira.startwork,startwork,Automated Log Work for JIRA
+AO_AC093E,com.gliffy.integration.jira,gliffy,Gliffy Diagrams for JIRA
+AO_69E499,com.go2group.jira.plugin.synapse,synapse,synapseRT - Test management and QA in JIRA
+AO_7C2234,com.googlecode.jira-suite-utilities,jsu,JSU Automation Suite for Jira Workflows
+AO_D195E9,com.herzum.jira.plugin.approval.herzum-approval-plugin,approval,Herzum Approval Plugin
+AO_3F6548,com.herzum.jira.plugins.herzum-quick-linker,quicklink,Herzum Quick Linker
+AO_459C0D,com.holydev.env.plugin.jira-holydev-env-plugin,golive,Apwide Golive
+AO_272C37,com.idalko.jira.plugins.igrid,igrid,iDalko Table Grid plugin
+AO_085EFF,com.idalko.pivotgadget,pivotgadget,The Pivot Gadget
+AO_4C3E54,com.inboxforjira.inbox,inbox,Inbox for JIRA
+AO_5A68F6,com.infostretch.QmetryTestManager,qmetry,QMetry for Jira - Test Management
+AO_248DF5,com.infosysta.jira.in-app-and-desktop-notifications-for-jira,desktopnotify,In-App and Desktop Notifications for JIRA
+AO_B1EC07,com.infosysta.jira.JAM,jam,AMJ - Attachment Manager for JIRA
+AO_BD1080,com.infosysta.plugins.licensing.license,outlook,Outlook To JIRA
+AO_B300F0,com.innovalog.jmcf.jira-misc-custom-fields,jmcf,Jira Misc Custom Fields
+AO_33A75D,com.intenso.jira.issue-templates,issuetemplates,Issue Templates for Jira (Gold Edition)
+AO_8CB340,com.intenso.jira.plugin.dynamic-forms,dynaforms,Dynamic Forms for Jira
+AO_3D787C,com.intenso.jira.plugin.livechat,livechat,LiveChat
+AO_34AB25,com.intenso.jira.plugins.actions.jsd-actions,jsdactions,Actions for JIRA Service Desk
+AO_9BFD01,com.intenso.jira.plugins.ad-integration-manager,adattrsync,Active Directory Attributes Sync
+AO_61F280,com.intenso.jira.plugins.cfr.electronic-signature,esigs,Electronic Signature for Jira
+AO_717BDC,com.intenso.jira.plugins.condval.intenso-conditions-validator,condvalidator,Help (a.k.a. Conditions Validator)
+AO_F04B02,com.intenso.jira.plugins.jira-approvals,approvals,Approvals – advanced issue acceptance
+AO_2AE210,com.intenso.jira.plugins.jsd-extender,jsdextender,Extension for Jira Service Desk
+AO_455C86,com.intenso.jira.plugins.password-policy,passwordpolicy,Enterprise Password Policy
+AO_18A588,com.intenso.jira.plugins.suiTest,testflo,TestFLO for Test Management
+AO_6D516B,com.intenso.jira.plugins.synchronizer,issuesync,IssueSYNC
+AO_BC9342,com.intenso.jira.plugins.translation.jsd-translation,jsdtranlation,Translation for JIRA Service Desk
+AO_C1221E,com.intenso.jira.queues-extension,queues,Cross Project Queues
+AO_551312,com.itransition.csam.helpcenter-corrector,corrector,HelpCenter Corrector
+AO_F86E5E,com.j-tricks.jql-plugin,jqlt,JQL Tricks Plugin
+AO_78C957,com.javahollic.jira.jemh-ui,jemh,Enterprise Mail Handler (JEMH) for Jira Server
+AO_BF7F57,com.javahollic.log-tailer-jira,logtailer,Log Tailer for JIRA
+AO_595E00,com.jelldesk.apps.embeddable-widget,embeddablejira,"Embeddable for JIRA, JIRA Service Desk"
+AO_BF4748,com.jiraeditor.jeditor,jeditor,JEditor
+AO_426761,com.jiraworkcalendar.work-calendar,workcal,Work Time Calendar
+AO_3BA132,com.jtricks.simplified-planner,simplifiedplanner,Simplified Planner for JIRA
+AO_A912D8,com.k15t.backbone.backbone-issue-sync,backbonesync,Backbone Issue Sync for Jira
+AO_1B155C,com.kaanha.jira.tableau,tableau,All-In-One Tableau Connector for Jira
+AO_6B9F04,com.kaanha.reports,aioreports,AIO Reports and Timesheets for Jira
+AO_D9F874,com.kaanha.timesheets,kaanahtimesheets,All-In-One Timesheets for Jira
+AO_4D28DD,com.kanoah.test-manager,testmanagement,Test Management for JIRA
+AO_1114A6,com.keplerrominfo.jira.plugins.blitz-actions,kepler,Power Actions for JIRA
+AO_1B54DA,com.keplerrominfo.jira.plugins.commons,sil,SIL Engine
+AO_3F6C61,com.keplerrominfo.jira.plugins.jjupin,kepler,Power Scripts for JIRA
+AO_CE20B8,com.keplerrominfo.jira.plugins.keplercf,kepler,Power Custom Fields Premium
+AO_5A70E4,com.keplerrominfo.jira.plugins.rightsdna,rightsdna,Rights DNA
+AO_8BF6AE,com.kintosoft.jira.birt_viewer,birt,Eclipse BIRT for Jira
+AO_D98188,com.kintosoft.jira.jdbc.cf.sql-custom-fields,sqlcf,SQL+JQL Custom Fields
+AO_2B6364,com.kintosoft.jira.subversion-plus,svn,Subversion ALM
+AO_04376E,com.kintosot.jira.jdbc4jql,jdbc4jql,SQL+JQL Driver
+AO_4B0B86,com.kostebekteknoloji.plugins.jira.jira-comment-toolbox,commenttoolbox,Jira Comment Toolbox
+AO_941C01,com.kostebekteknoloji.plugins.jira.jira-service-desk-toolbox,jsdtoolbox,Toolbox for Jira Service Desk
+AO_D1BE42,com.kostebekteknoloji.plugins.jira.jira-traceability-matrix,traceability,Traceability Matrix and Link Graph
+AO_3FB43F,com.marvelution.jira.plugins.jenkins,jenkins,Jenkins Integration for Jira Server
+AO_47EAC7,com.metainf.jira.plugin.bug-watcher,bugwatcher,Bug Watcher Notifications
+AO_544E33,com.metainf.jira.plugin.emailissue,jeti,Email This Issue
+AO_09E361,com.midori.jira.plugin.betterexcel,betterexcel,Better Excel Exporter for Jira
+AO_764F4D,com.midori.jira.plugin.jira-commit-policy-plugin,bettercommit,Better Commit Policy for Jira
+AO_A83C21,com.midori.jira.plugin.pdfview,betterpdf,Better PDF Exporter for Jira
+AO_FF4886,com.mobilitystream.jira.google4jiracloud,gsheets,Google Sheets Integration
+AO_CE4B6D,com.mohamicorp.plugin.autowatch.autowatch-for-jira,autowatch,Autowatch for JIRA
+AO_7C2DE0,com.moqups.atlassian.moqups-jira,moqups,Moqups for Jira Server
+AO_52302C,com.moresimp.aomodule,moresimp,Moresimp ActiveObjects Module
+AO_3198A9,com.moresimp.impex,impex,ImpEx
+AO_DB39E1,com.moresimp.jexcel,jexcel,JExcel LITE
+AO_14A4BF,com.moresimp.jexcel.pro,jexcel,JExcel PRO
+AO_CBC281,com.mxgraph.jira.plugins.drawio,drawio,Draw.io JIRA plugin
+AO_02C593,com.nebulio.addons.jira.notifications.server.Notifications,notifications,Notifications for JIRA
+AO_092BCA,com.obss.plugin.fieldSync,fieldsync,Field Sync
+AO_956E29,com.obss.plugin.time-in-status,timeinstatus,Time In Status
+AO_C63094,com.obss.plugin.user-property-manager,userpropmanager,User Property Manager
+AO_4B00E6,com.onresolve.jira.groovy.groovyrunner,groovy,Adaptavist ScriptRunner for JIRA
+AO_CC6AEB,com.osoboo.jira-metadata-plugin,metadata,Metadata for Jira
+AO_A36E36,com.ovyka.jira.satisfaction,satisfaction,Ovyka Satisfaction for JIRA
+AO_E7B8CC,com.pawelniewiadomski.jira.jira-openid-authentication-plugin,openid,OpenID Authentication for JIRA
+AO_42D05A,com.playsql.requirementyogijira,reqyogi,Requirement Yogi - Jira Integration
+AO_ED9438,com.plugenta.jiraauditor,auditor,Auditor for Jira
+AO_2EE522,com.practitest.jira.plugins.practitest-jira-lite,practitest,PractiTest for JIRA - Test Management
+AO_28A718,com.praecipio.jpt.turbo-kit,turbokit,Turbo Kit
+AO_A29AEA,com.projectbalm.riskregister.riskregister-jira,riskregister,Risk Register
+AO_F26C1F,com.prontop.service-desk-landingpage,jsdtheming,Ultimate Theming (for JIRA Service Desk)
+AO_60DB71,com.pyxis.greenhopper.jira,agile,JIRA Agile
+AO_C868C5,com.quisapps.jira.jss,jss,Scripting Suite for JIRA
+AO_7C25E5,com.quisapps.jira.jsspro,jss,Scripting Suite Pro for JIRA
+AO_A415DF,com.radiantminds.roadmaps-jira,portfolio,Portfolio for Jira
+AO_9E74DD,com.redmoon.jira.comment-security-default,commentsecurity,Comment Security Default
+AO_C3F46D,com.redmoon.jira.commenthistory.commenthistory,commenthistory,Comment History for JIRA
+AO_5E638F,com.redmoon.jira.documentvault,docvault,Document Vault for Jira
+AO_9701C1,com.redmoon.jira.issue-actions-todo,issueactionstodo,Issue Actions Todo
+AO_385228,com.redmoon.jira.projectdocuments,projdocs,Project Documents for JIRA
+AO_F719F1,com.redmoon.jira.secure-admin,secureadmin,Secure Admin
+AO_F3AFCB,com.redmoon.subtaskmanager.jira,stm,Sub Task Manager (STM)
+AO_D1CA32,com.refinedwiki.jira.servicedesk.refinedtheme,refinedjsd,Refined for Jira Service Desk
+AO_F58FCA,com.resolution.atlasplugins.samlsso.Jira,saml,SAML Single Sign On for Jira
+AO_8542F1,com.riadalabs.jira.plugins.insight,insight,Insight
+AO_F9C6CD,com.riadalabs.jira.plugins.notificationassistant,notificationassistant,Notification Assistant for JIRA
+AO_41FCC6,com.riadalabs.jira.plugins.userdeactivator,userdeactivator,User Deactivator for JIRA
+AO_95DC8F,com.rozdoum.agile-remaining-estimate-counter,arec,AREC
+AO_9AA912,com.rozdoum.watchtower,watchtower,WatchTower Server
+AO_A69CA7,com.sapling.elevator,elevator,Elevator for JIRA
+AO_A3B085,com.secsign.secsignid,secsign,SecSign ID Two Factor Authentication
+AO_22BE8E,com.spartez.jira.plugins.commenttemplates,cannedresponses,Canned Responses for JIRA
+AO_62850F,com.spartez.jira.plugins.jiraplanningpoker,agilepoker,Agile Poker Enterprise for JIRA
+AO_044626,com.spartez.jira.plugins.scrum-standup-for-jira,scrumstandup,Agile Scrum Standup for JIRA
+AO_30028F,com.spartez.jira.plugins.support-chat,jsdchat,Chat for Service Desk
+AO_4CB44A,com.spartez.scrumprint.scrumplugin,agilecards,Agile Cards
+AO_D4B4E5,com.stiltsoft.jira.smart-attachments,smartattachments,Smart Attachments
+AO_6AD1C6,com.stiltsoft.jira.teamcity,teamcity,TeamCity Integration Plugin for JIRA
+AO_2E48A5,com.stonikbyte.jira.plugins.project-docs-plugin,projectdocs,Documents
+AO_52220E,com.stonikbyte.jira.plugins.project-team-plugin,projectteam,Project Team
+AO_C3C6E8,com.tempoplugin.tempo-accounts,tempo,System Plugin: Tempo Accounts
+AO_013613,com.tempoplugin.tempo-core,tempo,System Plugin: Tempo Core
+AO_2D3BEA,com.tempoplugin.tempo-plan-core,tempoplanner,System Plugin: Tempo Planning API
+AO_BEE373,com.tempoplugin.tempo-platform-jira,tempo,System Plugin: Tempo Platform - JIRA
+AO_AEFED0,com.tempoplugin.tempo-teams,tempo,System Plugin: Tempo Teams
+AO_7DEABF,com.thed.zephyr.je,zephyr,Zephyr for JIRA
+AO_2B6685,com.thepluginpeople.jira.emq,emq,Enterprise Mail Queue for JIRA
+AO_85377D,com.tngtech.jira.plugins.schizophrenia,userswitcher,User Switcher for JIRA
+AO_5345B8,com.topshelfsolution.simpletasklists,simpletasklists,Simple Tasklists
+AO_984231,com.topshelfsolution.simplewiki,simplewiki,simplewiki
+AO_CB3B8D,com.tse.jira.issueproperties.plugin.jira-issue-properties-plugin,enhancedprops,Enhanced Issue Properties
+AO_DB4848,com.tse.jira.projectproperties.plugin.jira-project-properties-plugin,enhancedprops,Enhanced Project Properties
+AO_744954,com.valiantys.jira.plugins.exocet.jira-plugin-exocet-pro,copysync,Elements Copy and Sync (formerly Exocet)
+AO_F90A7B,com.valiantys.jira.plugins.SQLFeed,sqlfeed,Elements Connect (formerly nFeed)
+AO_353A13,com.valiantys.software.elements,checklist,Elements Checklist
+AO_216B11,com.view26.servicedesk-report.jira,jsdreports,Charts and Reports for Jira Service Desk
+AO_3D5E3B,com.whitehatsecurity.jira.plugins.sentinel2jirav5,whitehat,WhiteHat Sentinel Plugin
+AO_63D3CD,com.wittified.atl-announcer-jira,announcer,Announcer for JIRA
+AO_2B7A0E,com.wittified.delegated-group-management-in-jira,delegategroups,Delegated Group Management in JIRA
+AO_06D57D,com.wittified.jira.agile-board-template-builder,agileboard,Agile Board Template Builder for JIRA
+AO_E30806,com.wittified.jira.delegated-admin,delegatepm,Delegated Project Admin Pro for JIRA
+AO_275653,com.wittified.jira.project-creator,delegatecreate,Delegated Project Creator for JIRA
+AO_ADD55C,com.wittified.jira.project-creator-jira-agile,delegatecreate,Delegated Project Creator for JIRA Agile
+AO_C72C89,com.wittified.jsd.callcenter,jsdcallcenter,",CallCenter for JIRA Service Desk"
+AO_632F8B,com.wittified.webfragment-finder,fragfinder,Web Fragment Finder for JIRA
+AO_8BA09E,com.xiplink.jira.git.jira_git_plugin,xiplinkgit,Git Integration for Jira
+AO_3C6513,com.xpandit.plugins.jiraxporter,xporter,Xporter
+AO_8B1069,com.xpandit.plugins.xray,xray,Xray
+AO_CC493F,com.zagile.salesforce.ZSalesforceJIRA,zsalesforce,ZSalesforceJIRA
+AO_882244,csfj-1,calsync,Calendar Sync for JIRA
+AO_2D44A0,de.acocon.jira.otrs.otrs-gadget-plugin,otrs,PrOps
+AO_4223CC,de.catworkx.jira.plugins.cwx-issue-picker,teamworkx,Teamworkx Issue Picker for Jira
+AO_4FFCB7,de.catworkx.jira.plugins.issue-publisher,teamworkx,Teamworkx Issue Publisher for Jira
+AO_C3EFFD,de.catworkx.jira.plugins.otrs_integration,teamworkx,Teamworkx OTRS Integration for Jira
+AO_4D8B31,de.catworkx.jira.plugins.push_pull_favorites,pushpullfavorites,catworkx Push and Pull Favorites
+AO_1BD964,de.codecentric.jira.wes,wfessentials,Workflow Essentials for Jira
+AO_7A4E8B,de.codecentric.prevent-anonymous-access,noanon,prevent-anonymous-access
+AO_B5E1D5,de.communardo.atlassian.plugins.cute,cute,CUTE
+AO_3EFB4D,de.communardo.jira.plugins.remindme,remindme,RemindMe
+AO_2C3287,de.communardo.jira.plugins.userprofile,userprofiles,User Profiles for JIRA
+AO_9B23C2,de.iconcept.ictime.jira-ictime,ictime,"icTime - time tracking, reporting, accounting"
+AO_9FD13B,de.ilmcon.jira.protokolle,agileminutes,AgileMinutes
+AO_EE3AEC,de.kontextwork.goedit.jira,goedit,GoEdit for Jira
+AO_7AF017,de.materna.jira.plugins.maillogger,maillogger,M.maillogger
+AO_515FC4,de.mguenter.jira-sito,sito,Sync Issue To Outlook - SITO
+AO_A709F6,de.stagil.jira.create-and-link,createandlink,STAGIL Create and Link for JIRA
+AO_28DB39,de.stagil.jira.stagil-assets,advancedlinks,STAGIL Assets - Advanced Links
+AO_B8B557,de.syracom.jira.plugins.securelogin,securelogin,Secure Login for JIRA
+AO_91A39F,distributed-estimation-planning,distribest,Distributed Estimation
+AO_D0CA64,dufjc,massdelete,Mass Delete for JIRA
+AO_0456E7,eu.softwareplant.bigpicture,bigpicture,BigPicture
+AO_698B6A,eu.thesilverlining.jira.server.agilesprintgoals.jira-server-sprint-goals-plugin,agilesprintgoals,Agile Sprint Goals
+AO_6B485E,fr.gfi.jira.plugin.in-mail-handler,inmailhandler,In-Mail Handler PRO
+AO_377A17,fr.gfi.jira.plugins.runner,coderunner,Code Runner
+AO_4AED16,helpdesk.helpdesk-for-jira,helpdesk,HelpDesk for JIRA - Support Portal
+AO_0C0737,info.renjithv.jira.addons.threadedcomments.threaded-comments,threadedcomments,JIRA Threaded Comments
+AO_9DE8AC,io.extensi.jira.plugin.agileboardfilter,agiltools,Agile Tools & Filters for Jira Software
+AO_F33F82,io.toolsplus.atlassian.connect.jira.intercom,intercom,Intercom for Jira
+AO_A18366,jh.atlassian.jira.timetracking.jira-trock,trock,TROCK Timetracking Overview And Logging
+AO_9ED7BE,jira-chronos,chronos,jira-chronos
+AO_B4101D,jira-microsoft-teams-connector,msteams,Microsoft Teams Jira Connector
+AO_311E07,jira-relatedissues-plugin,related,Related Issues
+AO_E24DEA,jira-timesheet-plugin,timesheet,Timesheet Reports and Gadgets
+AO_9661E7,jira.plugin.projectspecificselectfield.jpssf,pssf,Project Specific Select Field
+AO_4811F4,jiracustomfieldeditorplugin,cfeditor,Customfield Editor for Jira
+AO_B64EA1,jp.ricksoft.plugins.alfresco-for-jira,alfresco,alfresco-for-jira
+AO_48D2EA,jp.ricksoft.plugins.excel4jira,excel4jira,Excel-like Issue Editor for Jira
+AO_67BD6E,jp.ricksoft.plugins.wbsgantt-for-jira,wbsgantt,WBS Gantt-Chart for Jira
+AO_050302,jsd-status-page,jsdstatuspage,Statuspage for Jira Service Desk
+AO_04990F,lambda-plugin,expressioncols,Expression Columns add-on for JIRA
+AO_756F83,net.auresso.jira.plugin.jelus,jelus,JELUS Enterprise LDAP User Synchronization
+AO_503A94,net.brokenbuild.issue-type-resolutions,issuetyperesolutions,Issue Type Resolutions for JIRA
+AO_E74470,net.brokenbuild.project-priorities,projpriorities,Project Priorities for Jira
+AO_E8E966,net.brokenbuild.subcomponents,subcomponents,Subcomponents for Jira
+AO_27DE84,net.brokenbuild.subversions,subversions,Versions Hierarchy
+AO_687793,net.collabsoft.plugins.jira.jira-version-sync,jiraversionsync,Version and Component Sync for Atlassian JIRA
+AO_15241E,net.comerge.joggler,toggl,Toggl integration for JIRA
+AO_3A3ECC,net.customware.plugins.connector.atlassian.jira-connector-plugin,servicerocket,ServiceRocket JIRA Connector - Plugin
+AO_88DE6A,net.customware.plugins.connector.core.core-connector-plugin,servicerocket,ServiceRocket Core Connector - Plugin
+AO_72EDB4,net.koncis.atlassian.issue-type-notification-schemes,issuetypenotificationschemes,Issue Type Notification Schemes
+AO_DDF8A3,net.koncis.atlassian.jira-issue-edit-lock,issuelock,JIRA Issue Lock (who's editing)
+AO_D4AF4C,net.luethi.plugins.jira.apn4jiraconnect,mobility,Mobility for JIRA
+AO_88CD22,net.seibertmedia.jira.plugin.instaprinta,instaprinta,InstaPrinta - Print JIRA issues directly
+AO_F64AB2,net.seibertmedia.jira.plugins.collective-issue-view,collectiveview,Collective Issue View
+AO_C87C73,net.seibertmedia.jira.plugins.issue-calendar-sync,ics,ICS - Issue Calendar Sync for JIRA
+AO_9F9188,net.seibertmedia.jira.plugins.project-archiver,projarchiver,Project Archiver for JIRA
+AO_A1168D,net.utoolity.atlassian.jira.identity-federation-for-aws-jira,awsid,Identity Federation for AWS (Jira)
+AO_A0A7C0,net.vacom.jirassimo,raleynotif,Raley Notifications for JIRA Server
+AO_96E78C,net.youngaweb.jira.issue-type-ui-filter,issuetypefilters,Issue Type Filters
+AO_84DB96,nl.avisi.jira.plugins.relations-for-jira,atlascrm,Atlas CRM
+AO_91C093,org.everit.jira.timetracker.plugin,timetracker,Timetracker Plugin
+AO_D53E8E,org.swift.jira.clone-plus,cloneplus,Bob Swift Atlassian Add-ons - Clone Plus for Jira
+AO_C5CA76,org.swift.jira.cot,createontransition,Bob Swift Atlassian Add-ons - Create on Transition
+AO_FEDBA1,org.swift.jira.cw,updateontransition,Bob Swift Atlassian Add-ons - Update on Transition
+AO_4634D4,org.techtime.jira.plugins.usermanagement,usermanagement,TechTime User Management for JIRA
+AO_CEA560,pl.com.tt.admintoolsforjira.AdminToolsForJira,admintools,Admin Tools for JIRA
+AO_680A11,pl.com.tt.apdc.vacation-manager,vacation,Vacation Manager for JIRA
+AO_16D9EC,pl.com.tt.jira.plugin.excel2jira,excel2jira,Excel Connector for JIRA
+AO_A406ED,pl.com.tt.jira.plugin.theschedulerpro,thescheduler,The Scheduler
+AO_AD8E0F,pl.com.tt.mailtask.MailTask,mailtask,EmailTask
+AO_154E16,pl.intenso.jira.trello.trello-sync,trello,Trello Sync for JIRA
+AO_FDF29B,plugin.jep,enhancer,Enhancer Plugin for JIRA
+AO_23ADAF,plugin.jip,assets,Assets and Inventory Plugin for JIRA
+AO_C5D949,plugin.tts,timetosla,Time to SLA
+AO_6797AA,pro.behave.hosted,behave,Behave Pro for JIRA Agile
+AO_2DDF0D,qffj,queryfeed,Query Feed for JIRA
+AO_5D733E,rs.codecentric.label-manager-project,labelmanager,Label Manager for Jira
+AO_47E0AA,ru.andreymarkelov.atlas.plugins.signaturefields,esigfields,Electronic Signature Fields
+AO_2FC5DA,ru.mail.jira.plugins.groovy,mygroovy,MyGroovy
+AO_DBF70C,ru.mail.jira.plugins.jsincluder,jsincluder,JsIncluder
+AO_0DB21A,ru.mail.jira.plugins.mailrucal,mailrucal,Mail.Ru Calendar
+AO_A9375F,ru.mail.jira.plugins.todolist,mytodo,My ToDo
+AO_A72509,ru.slie.jira.graty-issue-panel,graty,Graty issue panel
+AO_C5350F,ru.slie.jira.sync-fields,syncfields,Sync Fields
+AO_A3CCC5,ru.teamlead.jira.plugins.agile-filters-for-jira,agilefilters,Agile Filters for JIRA
+AO_EAB919,ru.teamlead.jira.plugins.reminder-for-jira,reminder,Reminder for JIRA
+AO_5CF617,ru.teamlead.jira.plugins.subscriptions-for-jira,subscriptions,Subscriptions for JIRA
+AO_9F39CD,ru.teamlead.jira.plugins.teamlead-crm-plugin-for-jira,teamleadcrm,CRM for JIRA - Customers and Sales
+AO_0BB235,ru.teamlead.jira.plugins.teamlead-toolkit,tltoolkit,Teamlead ToolKit
+AO_E970DC,ru.teamlead.jira.plugins.teamlead-unread-issues-plugin-for-jira,unreadissues,Teamlead Unread Issues Plugin for JIRA
+AO_4FE048,ru.teamlead.jira.plugins.teamlead-werewolf-for-jira,werewolf,Teamlead Werewolf for JIRA
+AO_4C6FC2,slack-standup-bot-jira,standbot,Stand-bot - Slack stand-up bot for Jira Server
+AO_A5E733,softwareplant.bigpictureenterprise,bigpicture,BigPicture Enterprise
+AO_2E9800,systems.npe.jira.prjorg,projgroups,Project Groups for JIRA
+AO_E115BF,tge.cloud,tablegrid,Table Grid Next Generation
+AO_5D285B,toggl,toggl,Toggl for JIRA
+AO_3CA953,uk.co.commercecomputing.users,bulkusercreate,Bulk User Creator
+AO_19C9CB,vfjc,visualizer,Visualizer for JIRA
+AO_FF0AC4,vivid.trace,vividtrace,Vivid Trace for JIRA
