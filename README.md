@@ -1,6 +1,6 @@
 # ActiveObject Table Views
 
-Creates easily queryable views over Jira/Confluence activeobjects tables
+Creates easily queryable views over Jira/Confluence activeobjects tables in Postgres
 
 ## Background
 
@@ -45,7 +45,7 @@ public.AO_AEFED0_PGP_GROUP
 public.AO_AEFED0_PGP_GROUP_TO_TEAM
 ```
 
-we generate tables:
+we generate a much more readable set of tables:
 ```
 tempo.location
 tempo.membership
@@ -53,9 +53,10 @@ tempo.pgp_group
 tempo.pgp_group_to_team
 ```
 
-The prefix is stripped, names of tables and columns are downcased, and tables for each plugin are grouped in a schema (`tempo`).
-
-This makes queries much more readable.
+Specifically:
+* The prefix is stripped
+* names of tables and columns are downcased
+* tables for each plugin are grouped in a schema (`tempo`)
 
 
 ## How to use
@@ -124,8 +125,19 @@ postgres@jturner-desktop:~/activeobject_views$ cat drop_views.sql | psql jira -t
 
 You can drop and recreate the views at any time, e.g. after installing a new plugin.
 
+# Addendums
 
-# Addendum: plugin names
+### Safety
+
+Jira and Confluence do not care at all about new schemas, or even new tables in the `public` schema.
+
+However if you were to upgrade a plugin, and that upgrade happens to drop a plugin table (something [Atlassian recommends against](https://developer.atlassian.com/server/framework/atlassian-sdk/upgrading-your-plugin-and-handling-data-model-updates/), that would break, as the table now has a view dependency (and no `CASCADE` was given). For this reason I suggest not leaving these views defined in a production database. Run `drop_views.sql` after you're done to remove them.
+
+### Plugin names
 
 The `jiraplugins.csv` mapping of `AO_` hashes to plugin keys was originally scraped from [https://confluence.atlassian.com/jirakb/list-of-jira-server-ao-table-names-and-vendors-973498988.html]. The equivalent `confluenceplugins.csv` is constructed from scratch. If you use a plugin without a mapping, please submit a ticket and I'll add it.
 
+
+### Database support
+
+The above is Postgres-specific; however I understand `information_schema` is part of the SQL standard, as is double quotes to delimit identifiers, and so the whole thing might work in other databases too.
